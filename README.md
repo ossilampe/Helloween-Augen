@@ -15,3 +15,8 @@ Nähere infos zu Lib LedControl:https://playground.arduino.cc/Main/LedControl/#S
 Download: https://github.com/wayoda/LedControl
 
 
+
+
+origanl der ino hier.
+https://hackaday.com/2014/10/27/8x8-led-arrays-make-for-one-creepy-animated-pumpkin/
+
