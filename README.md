@@ -10,4 +10,8 @@ Kleines Projekt um die Augen meines Kürbises zu Helloween nicht so langweilig a
 
 10 x female/female jumper wires
 
+Nähere infos zu Lib LEDCONTROL :https://playground.arduino.cc/Main/LedControl/#Source
+
+Downloasd: https://github.com/wayoda/LedControl
+
 
