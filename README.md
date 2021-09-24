@@ -2,6 +2,8 @@
 
 Kleines Projekt um die Augen meines Kürbises zu Helloween nicht so langweilig aussehen zu lassen.
 
+youtube: https://youtu.be/qqkJIPc-pB8
+
 1 x USB Power Supply for Arduino + USB Cable
 
 1 x Arduino Nano (or other with 5V output)
